@@ -1,0 +1,1 @@
+document.write("Scriptut se zarejda ot file")
