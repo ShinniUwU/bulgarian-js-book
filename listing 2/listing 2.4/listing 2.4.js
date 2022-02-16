@@ -5,7 +5,7 @@
  //macja;ma stoinost na sumata na kvadratite:
  var s=0
  //tekst za pokazvane:
- var txt="1<sup>2</sup> + 2<sub>2</sub> + ... + 100<sup>2</sup> "
+ var txt="1<sup>2</sup> + 2<sub>2</sub> + x + 100<sup>2</sup> = 100x101x201/6 = 50 x101 x67 ="
  txt+n+"<sup>2</sup> = " 
  //izchislqvane na sumata na kvadratite na chislata:
  while(k<=n) {
