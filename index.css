@@ -34,8 +34,22 @@ body {
       background-repeat:no-repeat;
 }
 h1 {
-font-size: 50px;
+  font-size: 50px;
  text-align: center;
  text-shadow: 2px 2px black;
  
+}
+img.center {
+  margin: 10px 120px 10px 230px;
+    display: block;
+ padding-top: 35px;
+ margin-left: 228px;
+
+ 
+ 
+}
+#yeet {
+  width: 1225px;
+height: 642px;
+  left:50%
 }
