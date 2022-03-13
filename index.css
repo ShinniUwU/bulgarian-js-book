@@ -36,9 +36,3 @@ h1 {
  text-shadow: 2px 2px black;
  
 }
-img.arrow {
-  padding-top:80px;
-position: absolute;
-right: 35%;
-filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%);
-}
