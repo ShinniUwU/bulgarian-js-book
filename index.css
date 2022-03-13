@@ -13,7 +13,7 @@ li {
     padding: 20px 0;
     align-items: center;
     justify-content: center;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 600;
     color:white;
     
@@ -23,7 +23,7 @@ a.click:visited {
   color:white;
 }
 a.click:hover {
-  font-size: 35px;
+  font-size: 45px;
   font-weight: 700;
 color: red;
 transition: all 0.5s ease;
