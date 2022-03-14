@@ -210,7 +210,7 @@ height: 1050px;
         @media screen and (max-width: 414px) { 
           li {
            font-size:15px;
-           padding-top: 10px;
+            padding-top: 15px;
             }
             h1.bultext {
               font-size:15px;
@@ -229,7 +229,7 @@ height: 1050px;
         @media screen and (max-width: 375px) { 
           li {
            font-size:10px;
-             padding-top: 15px;
+             padding-top: 20px;
             }
             h1.bultext {
               font-size:15px;
