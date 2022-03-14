@@ -248,7 +248,7 @@ height: 1050px;
           @media screen and (max-width: 280px) { 
             li {
              font-size:10px;
-             padding-top: 10px;
+             padding-top: 15px;
               }
               h1.bultext {
                 font-size:10px;
@@ -260,7 +260,7 @@ height: 1050px;
               }  
             #yeet {
               width: 210px;
-              height: 132px;
+              height: 138px;
             }
             }
            
