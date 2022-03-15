@@ -18,9 +18,8 @@ li {
     
 }
 a.click:visited {
-  text-decoration: none;
   color:white;
-  all:unset;
+  text-decoration: none !important;
 }
 a.click:hover {
   font-size: 65px;
