@@ -212,6 +212,26 @@ li {
         height: 342px;
       }
       }
+      @media screen and (max-width: 768px) { 
+        li {
+         font-size:20px;
+          }
+          h1.bultext {
+            font-size:30px;
+          }
+          img.center {
+            margin: -95px 120px -30px 550px;
+              display: block;
+           padding-top: 35px;
+           margin-left: 100px;
+           margin-right: 100px;
+           margin-top: -50px;
+          }  
+        #yeet {
+          width: 588px;
+          height: 342px;
+        }
+        }
       @media screen and (max-width: 540px) { 
         li {
          font-size:15px;
