@@ -20,6 +20,7 @@ li {
 a.click:visited {
   text-decoration: none;
   color:white;
+  all:unset;
 }
 a.click:hover {
   font-size: 65px;
