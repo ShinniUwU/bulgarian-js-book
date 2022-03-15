@@ -15,7 +15,9 @@ li {
     font-size: 60px;
     font-weight: 600;
     color:white;
-    text-decoration: none;
+}
+a.click {
+  color:white;
 }
 a.click:visited {
  color: white;
